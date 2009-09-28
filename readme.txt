@@ -25,7 +25,7 @@ sections are <code>h3</code>'s and below.
 
 If the <code>$post</code> object is not passed into <code>the_title</code>
 filter, then the page's <code>the_title()</code> must be called before every other
-the_title() call in_the_loop()
+<code>the_title()</code> call <code>in_the_loop()</code>
 
 == Changelog ==
 
