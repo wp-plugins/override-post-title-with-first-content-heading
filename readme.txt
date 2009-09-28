@@ -1,6 +1,6 @@
 === Override Post Title with First Content Heading ===
 Contributors: westonruter
-Tags: search
+Tags: title, heading, seo
 Tested up to: 2.8
 Requires at least: 2.7
 Stable tag: trunk
