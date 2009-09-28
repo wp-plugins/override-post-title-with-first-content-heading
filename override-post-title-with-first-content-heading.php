@@ -1,8 +1,7 @@
 <?php
 /*
 Plugin Name: Override Post Title with First Content Heading
-Plugin URI: 
-Description: By default, <code>the_title()</code> in The Loop returns <code>post_title</code>; if, however, this needs to be overridden so that a custom heading is displayed, then an <code>h2</code> element may be supplied at the beginning of the <code>post_content</code> and this will replace the <code>post_title</code> in the content. This is going off of the assumption that the site title should be a <code>h1</code>, and the page title should be in an <code>h2</code>, and then page sections are <code>h3</code>'s and below.
+Description: By default, <code>the_title()</code> in The Loop returns <code>post_title</code>; if, however, this needs to be overridden so that a custom heading is displayed, then an <code>h2</code> element may be supplied at the beginning of the <code>post_content</code> and this will replace the <code>post_title</code> in the content. This is going off of the assumption that the site title should be a <code>h1</code>, and the page title should be in an <code>h2</code>, and then page sections are <code>h3</code>'s and below. <em>Plugin developed at <a href="http://www.shepherd-interactive.com/" title="Shepherd Interactive specializes in web design and development in Portland, Oregon">Shepherd Interactive</a>.</em>
 Version: 0.2.4
 Author: Weston Ruter
 Author URI: http://weston.ruter.net/

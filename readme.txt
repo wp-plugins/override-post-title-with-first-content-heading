@@ -12,6 +12,10 @@ post_title in the content.
 
 == Description ==
 
+<em>This plugin is developed at
+<a href="http://www.shepherd-interactive.com/" title="Shepherd Interactive specializes in web design and development in Portland, Oregon">Shepherd Interactive</a>
+for the benefit of the community. <b>No support is available. Please post any questions to the <a href="http://wordpress.org/tags/override-post-title-with-first-content-heading?forum_id=10">support forum</a>.</b></em>
+
 By default, <code>the_title()</code> in The Loop returns <code>post_title</code>; if, however, this needs
 to be overridden so that a custom heading is displayed, then an h2 element may be
 supplied at the beginning of the <code>post_content</code> and this will replace the
