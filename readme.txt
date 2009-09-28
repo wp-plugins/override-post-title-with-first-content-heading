@@ -1,4 +1,4 @@
-=== Google Search for WordPress ===
+=== Override Post Title with First Content Heading ===
 Contributors: westonruter
 Tags: search
 Tested up to: 2.8
