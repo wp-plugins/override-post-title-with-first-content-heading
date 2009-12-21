@@ -1,7 +1,7 @@
 === Override Post Title with First Content Heading ===
 Contributors: westonruter
 Tags: title, heading, h1, h2, seo
-Tested up to: 2.8.4
+Tested up to: 2.9
 Requires at least: 2.7
 Stable tag: trunk
 
